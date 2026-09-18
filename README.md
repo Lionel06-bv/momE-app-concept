@@ -45,6 +45,3 @@ Screens below are exported from the Figma prototype.
 
 Figma, used for UI/UX design, prototyping, and the business model materials above. No application code was implemented for this project; the deliverable was the design and research documented here.
 
-## About this project
-
-Individual project for the Creativity and Innovation course at BINUS University, submitted by Lionel Benedict Vincentino.
